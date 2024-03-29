@@ -30,3 +30,13 @@ Comandos
 
 9. 
     git commit -a -m "Se creo index.html"
+
+10. 
+    git commit -a -m "Se hicieron cambios para aboutme.html"
+
+11. volver a la rama main
+    git checkout main
+
+12. Para integrar los cambio en la rama-de-trabajo a la rama main se hace un merge
+    git merge rama-de-trabajo
+
