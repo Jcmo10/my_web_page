@@ -8,5 +8,18 @@ Comandos
 2. comando para crear una rama nueva
     git checkout -b nombre_de_la_rama -> git checkout -b new_features
 
-3. 
+3. comando para actualizar los archivos
     git commit -m "mensaje de los cambios relaizados"  -> git commit -m "nuevos cambios al archivo index.html"
+    git commit -a -> todos los archivos
+    git commit -a -m "mensaje"
+
+4. Comando para agregar el archivo nuevo al repositorio local
+    git add aboutme.html
+
+5. Igual que el 4
+    git add aboutme.css
+
+6. Igual que el 3
+    git commit -a -m "Se creo el archivo aboutme.css"
+
+7. 
