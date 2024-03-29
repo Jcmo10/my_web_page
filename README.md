@@ -40,3 +40,5 @@ Comandos
 12. Para integrar los cambio en la rama-de-trabajo a la rama main se hace un merge
     git merge rama-de-trabajo
 
+13. Subir del repositorio local al repositorio Remoto
+    git push -u origin <nombre_de_la_rama> -> git push -u origin main
