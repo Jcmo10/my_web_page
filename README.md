@@ -23,3 +23,10 @@ Comandos
     git commit -a -m "Se creo el archivo aboutme.css"
 
 7. 
+    git commit -a -m "Se realizaron cambios aboutme.html se respondieron algunas cosas"
+
+8. 
+    git add index.html
+
+9. 
+    git commit -a -m "Se creo index.html"
