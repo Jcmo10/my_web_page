@@ -9,3 +9,4 @@ Comandos
     git checkout -b nombre_de_la_rama -> git checkout -b new_features
 
 3. 
+    git commit -m "mensaje de los cambios relaizados"  -> git commit -m "nuevos cambios al archivo index.html"
